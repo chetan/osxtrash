@@ -1,7 +1,15 @@
 require 'helper'
 
 class TestOsxtrash < Test::Unit::TestCase
-  should "probably rename this file and start testing for real" do
-    flunk "hey buddy, you should probably rename this file and start testing for real"
+
+  def test_new
+    assert OSXTrash.new
   end
+
+  def test_list
+    items = OSXTrash.new.list
+    assert items
+  end
+
+
 end

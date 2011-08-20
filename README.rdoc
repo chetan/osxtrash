@@ -1,6 +1,6 @@
 = osxtrash
 
-Description goes here.
+A class for interacting with Mac OS X's trash can. Based on original utility found in osx-trash gem.
 
 == Contributing to osxtrash
  
