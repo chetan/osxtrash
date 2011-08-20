@@ -25,6 +25,7 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "lib/osxtrash.rb",
+    "osxtrash.gemspec",
     "test/helper.rb",
     "test/test_osxtrash.rb"
   ]
