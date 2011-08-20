@@ -1,4 +1,5 @@
 
+require 'pathname'
 require 'osx/cocoa'
 include OSX
 OSX.require_framework 'ScriptingBridge'
