@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "osxtrash"
   gem.homepage = "http://github.com/chetan/osxtrash"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{A class for interacting with Mac OS X's trash can.}
+  gem.description = %Q{A class for interacting with Mac OS X's trash can. Based on original utility found in osx-trash gem.}
   gem.email = "chetan@pixelcop.net"
   gem.authors = ["Chetan Sarva"]
   # dependencies defined in Gemfile
